@@ -16,7 +16,7 @@ const importantInfo = () => {
     return(
         👨🏻‍💻  Linkedin: 'https://www.linkedin.com/in/gabriel-felipe-bello-075032208/', 
         📙  Portfolio: 'https://gabrielfbello.com',
-        📫  Email: 'gfbello@gmail.com',
+        📫  Email: 'gfbello.x@gmail.com',
    );
 }
 ```
