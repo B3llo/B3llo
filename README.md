@@ -1,4 +1,4 @@
-# Hello, I’m Gabriel F. Bello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hi, I’m Gabriel F. Bello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-felipe-bello-075032208/)](https://www.linkedin.com/in/gabriel-felipe-bello-075032208/) 
