@@ -9,7 +9,7 @@
     <li>I'm 20 years old and currently I'm attending Analysis and Systems Development Degree 👨‍💻</li>
     <li>Studying React, React Native, PHP and Node ⚡</li>
     <li>I love to read and to play some chess ♟️ </li>
-    <li>The only thing higher than my determination is my ambition 🚀 🚀 🚀</li>
+    <li>Always Improving 🚀</li>
 </ul>
 
 ```js
