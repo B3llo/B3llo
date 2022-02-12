@@ -7,7 +7,7 @@
 
 <ul>
     <li>I'm 20 years old and currently I'm attending Analysis and Systems Development Degree 👨‍💻</li>
-    <li>Studying React, React Native, AWS, Docker and Node ⚡</li>
+    <li>Studying Angular, React Native, AWS, Docker and Node ⚡</li>
     <li>I love to read and to play some chess ♟️ </li>
     <li>Always Improving 🚀</li>
 </ul>
