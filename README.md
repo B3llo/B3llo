@@ -30,6 +30,8 @@ const importantInfo = () => {
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="27px" height="27px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="27px" height="27px"></a>
 <a href="https://angular.io/" title="Angular"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="27px" height="27px"></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker.svg" alt="Docker" width="27px" height="27px"></a>
+<a href="https://kubernetes.io/" title="Kubernetes"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/kubernetes.svg" alt="Kubernetes" width="27px" height="27px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="27px" height="27px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="27px" height="27px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React Native" width="27px" height="27px"></a>
