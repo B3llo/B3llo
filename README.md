@@ -7,7 +7,7 @@
     <li>I'm 20 years old and currently I'm attending Analysis and Systems Development Degree 👨‍💻</li>
     <li>Studying Angular, Nest.js, AWS, Docker and Node ⚡</li>
     <li>Runner and chess player ♟️ </li>
-    <li>Always seeking for improvment 🚀</li>
+    <li>Always seeking for improvement :fire:</li>
 </ul>
 
 ```js
