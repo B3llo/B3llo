@@ -1,7 +1,6 @@
 # 🖐️ Hi, I’m Gabriel F. Bello
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-gabrielfbello.com-darkblue?style=for-the-badge&labelColor=171921&color=1f388c)](https://www.gabrielfbello.com/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-felipe-bello-075032208/)](https://www.linkedin.com/in/gabriel-felipe-bello-075032208/) 
 
 <ul>
     <li>I'm 20 years old and currently I'm attending Analysis and Systems Development Degree 👨‍💻</li>
