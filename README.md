@@ -30,6 +30,7 @@ const importantInfo = () => {
 <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/kubernetes.svg" alt="Kubernetes" width="27px" height="27px"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker.svg" alt="Docker" width="27px" height="27px"></a>
 <a href="https://nestjs.com" title="Nest.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nestjs.svg" alt="Docker" width="27px" height="27px"></a>
+<a href="https://www.terraform.io" title="Terraform"><img src="https://www.terraform.io/img/logo.png" alt="Terraform" width="27px" height="27px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="27px" height="27px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="27px" height="27px"></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React Native" width="27px" height="27px"></a>
@@ -40,7 +41,6 @@ const importantInfo = () => {
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="27px" height="27px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/yarn.svg" alt="Yarn" width="27px" height="27px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="27px" height="27px"></a>
-<a href="https://gulpjs.com/" title="Gulp"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/gulp.svg" alt="Gulp" width="27px" height="27px"></a>
 <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/webpack.svg" alt="webpack" width="27px" height="27px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/babel.svg" alt="Babel" width="27px" height="27px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eslint.svg" alt="ESLint" width="27px" height="27px"></a>
