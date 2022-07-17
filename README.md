@@ -12,7 +12,7 @@
 ```js
 const importantInfo = () => {
     return(
-        👨🏻‍💻  Linkedin: 'https://www.linkedin.com/in/gabriel-felipe-bello-075032208/', 
+        👨🏻‍💻  Linkedin: 'https://www.linkedin.com/in/gabriel-felipe-bello/', 
         📙  Portfolio: 'https://gabrielfbello.com',
         📫  Email: 'gfbello.x@gmail.com',
    );
