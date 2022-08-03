@@ -20,7 +20,7 @@ const importantInfo = () => {
 ```
 <hr />
 
-**Tools and Technologies**
+**Tools and Technologies :gear:**
 
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="27px" height="27px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="27px" height="27px"></a>
